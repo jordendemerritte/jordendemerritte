@@ -1,14 +1,12 @@
 🌀 driven by the looming presence of climate change 
 🌀 churning desire to create positive change through the interdisciplinary space of arch, tech, and design
-- 👋 Hi, I’m @jordendemerritte
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌀 developing skillsets in tech to live a virtuous, independent, and good life 
 
-<!---
-jordendemerritte/jordendemerritte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+(o_ _)ﾉ彡☆
+⭐️ architecture: autocad, revit (to learn - gis tech)
+⭐️ programming: python, javascript, (to learn - tailscript.js, react.js)
+⭐️ other: drawing, blender
+
+
+📎 reach me jorden.demerr.edu@gmail.com
