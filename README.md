@@ -6,7 +6,7 @@
   
 (o_ _)ﾉ彡☆  
 ⭐️ architecture: autocad, revit (to learn - gis tech)  
-⭐️ programming: python, javascript, (to learn - tailscript.js, react.js, ruby)  
+⭐️ programming: python, javascript, tailwind css, react.js (to learn - c++, ruby)  
 ⭐️ other: drawing, blender  
 
 
