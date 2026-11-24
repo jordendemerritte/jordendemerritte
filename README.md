@@ -8,6 +8,3 @@
 ⭐️ architecture: autocad, revit (to learn - gis tech)  
 ⭐️ programming: python, javascript, tailwind css, react.js (to learn - c++, ruby)  
 ⭐️ other: drawing, blender  
-
-
-📎 reach me jorden.demerr.edu@gmail.com
